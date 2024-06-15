@@ -1,0 +1,26 @@
+.img{
+    width: 180px;
+    height: 230px;
+    background-color: yellow;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.a{
+    margin-top: 200px;
+}
+i{
+    margin-left: 80px;
+    margin-top: 80px;
+font-size: 26px;    
+}
+.input{
+    margin-left: 200px;
+margin-top: -200px;
+}
+.parent{
+    position: relative;
+}
+.c{
+    position: absolute;
+    top: 160px;
+}
